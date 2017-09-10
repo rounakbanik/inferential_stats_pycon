@@ -22,4 +22,5 @@ The following datasets have been used:
 4. **NBA Players Stats - 2014-2015:** Points, Assists, Height, Weight and other personal details and stats. Uploaded by DrGuillermo on Kaggle. Available at https://www.kaggle.com/drgilermo/nba-players-stats-20142015
 5. **Top 500 Indian Cities:** What story do the top 500 cities of India tell to the world? Uploaded by Arijit Mukherjee on Kaggle. Available at https://www.kaggle.com/zed9941/top-500-indian-cities.
 6. **Airbnb New User Bookings:** Where will a new guest book their first travel experience? Uploaded by Airbnb on Kaggle. Available at https://www.kaggle.com/c/airbnb-recruiting-new-user-bookings/data.
+7. **Racial Discrimination in the Job Market:** Are Emily and Greg More Employable Than Lakisha and Jamal? Uploaded by the American Economic Association. Available at https://www.aeaweb.org/articles?id=10.1257/0002828042002561.
 7. **The Iris Dataset:** Classify iris plants into three species in this classic dataset. Available in the scikit-learn library.

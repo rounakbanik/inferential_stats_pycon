@@ -1,5 +1,5 @@
 # Inferential Statistics with Python
-## A Talk Proposal for SciPy India 2017 (Mumbai)
+## A Talk Proposal for SciPy India 2017 (IIT Bombay)
 
 This repository is a collection of Jupyter notebooks that contain code relevant to the proposed talk on Inferential Statistics with Python at the SciPy India Conference in November 2017.
 
